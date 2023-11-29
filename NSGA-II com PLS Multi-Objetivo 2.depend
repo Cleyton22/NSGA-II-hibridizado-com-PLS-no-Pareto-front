@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701236424 source:c:\users\cleyton\downloads\ufba\grupo de pesquisa, bolsa (felipe fernandes)\nsga-ii e pls híbrido no pareto front\nsga-ii com pls multi-objetivo no pareto front\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	<stdbool.h>
+
